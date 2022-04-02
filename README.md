@@ -1,3 +1,3 @@
 # calendar
 
-Java Program to return the day of te week for a given date. Implements the Zeller's Congruence Algorithm 
+Java Program to return the day of the week for a given date. Implements the Zeller's Congruence Algorithm 
